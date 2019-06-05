@@ -1,5 +1,3 @@
-<html>
-<head>
 
 <script type = "text/javascript">
 
@@ -18,6 +16,3 @@ document.write(a.one, a.two);
 document.write(b.Shubham, b.age);
 
 </script>
-
-</body>
-</html>
