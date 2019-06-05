@@ -1,5 +1,3 @@
-<html>
-<head>
 
 <script type = "text/javascript">
 
@@ -23,6 +21,3 @@ document.write(a.num, a.text);
 document.write(b.num, b.text);
 
 </script>
-
-</body>
-</html>
