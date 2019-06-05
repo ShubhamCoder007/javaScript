@@ -1,5 +1,4 @@
-<html>
-<head>
+
 <script type = "text/javascript">
 
 function num(n){
@@ -27,6 +26,3 @@ var n = new num(5);
 document.write(n.num, n.oddEven, n.sq);
 
 </script>
-
-</body>
-</html>
